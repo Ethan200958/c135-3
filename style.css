@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to bottom right, lightblue, burlywood, goldenrod, lightblue);  
+      font-family: 'Dosis', sans-serif;
+}
+
+#start {
+    font-size: 18px;
+}
+
+#heading {
+    margin-top: 0;
+    width:100%;
+    box-shadow: 10px 10px 10px grey;
+    border: 3px black;
+    font-size: 24px;
+}
+
+#footering {
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+    bottom: 0;
+    background-color: grey;
+}
+
+canvas {
+    border: 2px solid white;
+    margin-top: 80px;
+    border-radius:15px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#input {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+}
